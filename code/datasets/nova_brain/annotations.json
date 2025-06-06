@@ -1,0 +1,3361 @@
+{
+  "case0061": {
+    "clinical_history": "A 30-year-old patient presented to the emergency department with 3 days history of headache, nausea and vomiting. Memory loss and disorientation in time and space were reported, without other neurological manifestations.",
+    "title": "Central neurocytoma with atypical imaging appearance",
+    "publication_date": "13.06.2017",
+    "differential_diagnosis": "Central neurocytoma; Central neurocytoma; Subependymoma; Ependymoma; Subependymal giant cell astrocytoma",
+    "final_diagnosis": "Central neurocytoma",
+    "link": "https://eurorad.org/case/14734",
+    "image_findings": {
+      "case0061_001.png": {
+        "scan_id": "1",
+        "caption": "Axial contrast-enhanced T1 3D sequence shows an isointense mass and slight enhancement.",
+        "bbox_2d_gold": [
+          [
+            295.62880859375,
+            214.32319335937498,
+            707.0890625,
+            812.0660970052082
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              249.6,
+              204.8,
+              759.4666666666667,
+              853.3333333333333
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              311.46666666666664,
+              217.6,
+              689.0666666666666,
+              797.8666666666667
+            ]
+          }
+        ]
+      },
+      "case0061_002.png": {
+        "scan_id": "2",
+        "caption": "Axial T2 gradient image shows a small hypointense area within the intraventricular mass, compatible with calcification.",
+        "bbox_2d_gold": [
+          [
+            384.8533203125,
+            44.98773193359375,
+            797.0474609375,
+            814.0970418294271
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              424.5333333333333,
+              2.1333333333333333,
+              893.8666666666666,
+              842.6666666666666
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              371.2,
+              59.733333333333334,
+              763.7333333333333,
+              804.2666666666667
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0246": {
+    "clinical_history": "A 27-year-old male had an incidental finding of intracranial calcifications on a CT head scan. The scan was performed to evaluate an enlarged external occipital protuberance discovered after shaving his head . According to the family, over the past two years, the patient has experienced forgetfulness with a reduced attention span. His academic performance at the university has progressively declined during this period, especially in the last few months, during which he has become more silent and less communicative . He reported no sensory-motor disturbances, cerebellar symptoms, seizures, or extrapyramidal features. Consequently, both CT and MRI scans of the head were requested.",
+    "title": "A case study: Early presentation of Fahr\u2019s syndrome",
+    "publication_date": "04.10.2023",
+    "differential_diagnosis": "Hypoparathyroidism; Toxoplasmosis; Mitochondrial myopathy; Cokayne syndrome; Kenny Caffey syndrome; Fahr\u2019s syndrome",
+    "final_diagnosis": "Fahr\u2019s syndrome",
+    "link": "https://eurorad.org/case/18297",
+    "image_findings": {
+      "case0246_001.png": {
+        "scan_id": "1",
+        "caption": "T1 sequence showing high signal in basal ganglia bilaterally",
+        "bbox_2d_gold": [
+          [
+            312.3029296875,
+            296.22613932291665,
+            666.8970703125001,
+            628.0533528645833
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              283.73333333333335,
+              258.1333333333333,
+              695.4666666666667,
+              667.7333333333333
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              322.1333333333333,
+              309.3333333333333,
+              657.0666666666666,
+              614.4
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0115": {
+    "clinical_history": "A 49-year-old man with a history of alcohol abuse presented to the Emergency Department with fever, headache and productive cough for the past 4 days. The day before his clinical conditions were aggravated by confusion and motor slowing. No relevant previous medical history. Laboratory analysis found leukocytosis and increased c-reactive-protein.",
+    "title": "Pyogenic brain abscess with ventriculitis",
+    "publication_date": "03.06.2019",
+    "differential_diagnosis": "Pyogenic brain abscess with intraventricular rupture; Metastases; Glioblastoma multiforme; Tumour radionecrosis; Multiple sclerosis; Fungal, parasitic or mycobacterial abscess",
+    "final_diagnosis": "Pyogenic brain abscess with intraventricular rupture",
+    "link": "https://eurorad.org/case/16385",
+    "image_findings": {
+      "case0115_007.png": {
+        "scan_id": "7",
+        "caption": "Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d).",
+        "bbox_2d_gold": [
+          [
+            263.688525390625,
+            391.6778645833333,
+            500.87892252604166,
+            628.4352050781249
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              260.26666666666665,
+              392.5333333333333,
+              512.0,
+              646.4
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              268.8,
+              390.4,
+              484.26666666666665,
+              601.5999999999999
+            ]
+          }
+        ]
+      },
+      "case0115_001.png": {
+        "scan_id": "1",
+        "caption": "Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d).",
+        "bbox_2d_gold": [
+          [
+            216.41173502604167,
+            331.71201171875,
+            494.933349609375,
+            548.2666829427083
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              226.13333333333333,
+              345.6,
+              494.93333333333334,
+              548.2666666666667
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              211.2,
+              324.26666666666665,
+              494.93333333333334,
+              548.2666666666667
+            ]
+          }
+        ]
+      },
+      "case0115_002.png": {
+        "scan_id": "2",
+        "caption": "Micronodule abscess into the right centrum semiovale characterised by hyperintensity with a hypointense ring on T2WI (Fig. 3a), hypointensity on ADC map (Fig. 3b), \u201cdual rim sign\u201d on SWI (Fig. 3c) and ring enhancement on T1 after contrast (Fig. 3d).",
+        "bbox_2d_gold": [
+          [
+            328.5333333333333,
+            443.73333333333335,
+            420.26666666666665,
+            541.8666666666667
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              328.5333333333333,
+              443.73333333333335,
+              420.26666666666665,
+              541.8666666666667
+            ]
+          }
+        ]
+      },
+      "case0115_003.png": {
+        "scan_id": "3",
+        "caption": "MR. FLAIR images show a ventricular enlargement with a subependymal rim of hyperintensity corresponding to transependymal oedema. Hyperintense material is visible in the occipital horns of the lateral ventricles (Fig. 4a), in the trigones (Fig. 4b), in the body of the lateral ventricles (Fig. 4c). DWI (b=1000) images evidence restricted diffusion of material in the fourth ventricle and in the prepontine cystern (Fig. 4d) and in the lateral ventricles (Fig.4e). After contrast injection FSPGR images show subependymal enhancement of the right ventricle (Fig. 4f).",
+        "bbox_2d_gold": [
+          [
+            262.08033854166666,
+            357.3141276041667,
+            764.6595377604167,
+            817.5103841145833
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              253.52532552083332,
+              578.1333333333333,
+              778.3253255208333,
+              806.4
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              266.6666666666667,
+              238.93333333333334,
+              757.3333333333334,
+              823.4666666666667
+            ]
+          }
+        ]
+      },
+      "case0115_004.png": {
+        "scan_id": "4",
+        "caption": "MR. FLAIR images show a ventricular enlargement with a subependymal rim of hyperintensity corresponding to transependymal oedema. Hyperintense material is visible in the occipital horns of the lateral ventricles (Fig. 4a), in the trigones (Fig. 4b), in the body of the lateral ventricles (Fig. 4c). DWI (b=1000) images evidence restricted diffusion of material in the fourth ventricle and in the prepontine cystern (Fig. 4d) and in the lateral ventricles (Fig.4e). After contrast injection FSPGR images show subependymal enhancement of the right ventricle (Fig. 4f).",
+        "bbox_2d_gold": [
+          [
+            331.07838541666666,
+            341.1029296875,
+            663.9210611979167,
+            746.6453450520834
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              337.06666666666666,
+              262.4,
+              652.8,
+              755.2
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              322.1333333333333,
+              458.6666666666667,
+              680.5333333333333,
+              733.8666666666667
+            ]
+          }
+        ]
+      },
+      "case0115_005.png": {
+        "scan_id": "5",
+        "caption": "MR examination obtained after one month of antibiotic therapy and external ventricular drainage (Campylobacter rectus was the agent isolated from the CSF). T2WI (Fig. 5a) and FSPGR image with contrast show the reduction of the abscess. Pus is absent in the ventricles as documented with DWI (b=1000) in Fig. 5c. No subependymal enhancement is appreciated after contrast injection in FSPGR (Fig. 5d). The right ventricle is partially collapsed after external ventricular drainage.",
+        "bbox_2d_gold": [
+          [
+            320.37119140625,
+            282.38505859375,
+            457.40372721354163,
+            450.54718424479165
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              337.06666666666666,
+              302.93333333333334,
+              452.26666666666665,
+              454.4
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              309.3333333333333,
+              268.8,
+              460.79999999999995,
+              448.0
+            ]
+          }
+        ]
+      },
+      "case0115_006.png": {
+        "scan_id": "6",
+        "caption": "MR examination obtained after one month of antibiotic therapy and external ventricular drainage (Campylobacter rectus was the agent isolated from the CSF). T2WI (Fig. 5a) and FSPGR image with contrast show the reduction of the abscess. Pus is absent in the ventricles as documented with DWI (b=1000) in Fig. 5c. No subependymal enhancement is appreciated after contrast injection in FSPGR (Fig. 5d). The right ventricle is partially collapsed after external ventricular drainage.",
+        "bbox_2d_gold": [
+          [
+            320.0,
+            358.4,
+            409.6,
+            448.0
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              320.0,
+              358.4,
+              409.6,
+              448.0
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0088": {
+    "clinical_history": "A 55-year-old male patient was admitted to the hospital due to painless progressive swelling over the right frontal area for the last one year. The overlying skin was healthy. The patient referred occasional mild headaches. He had no history of fever, weight loss or night sweats.",
+    "title": "Primary dural lymphoma (PDL)",
+    "publication_date": "06.02.2018",
+    "differential_diagnosis": "Diffuse large B-cell lymphoma in the dura  with disseminated disease; Primary dural lymphoma (PDL); Invasive meningioma",
+    "final_diagnosis": "Diffuse large B-cell lymphoma in the dura  with disseminated disease",
+    "link": "https://eurorad.org/case/15380",
+    "image_findings": {
+      "case0088_004.png": {
+        "scan_id": "4",
+        "caption": "After paramagnetic contrast intravenous injection, the lesion demonstrates intense enhancement.",
+        "bbox_2d_gold": [
+          [
+            123.6650634765625,
+            0.015871999661127727,
+            446.3957275390625,
+            824.4212105413278
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              49.06666666666666,
+              0.0,
+              379.73333333333335,
+              808.5333333333333
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              149.33333333333334,
+              0.021333332856496176,
+              469.33333333333337,
+              829.8879999995231
+            ]
+          }
+        ]
+      },
+      "case0088_001.png": {
+        "scan_id": "1",
+        "caption": "Axial DWI high b-value. Difussion restriction is demonstrated.",
+        "bbox_2d_gold": [
+          [
+            43.997867838541666,
+            159.59039713541665,
+            298.530126953125,
+            602.9994791666666
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              10.666666666666666,
+              108.8,
+              347.73333333333335,
+              644.2666666666667
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              55.46666666666667,
+              177.06666666666666,
+              281.6,
+              588.8
+            ]
+          }
+        ]
+      },
+      "case0088_002.png": {
+        "scan_id": "2",
+        "caption": "ADC map displays low ADC.",
+        "bbox_2d_gold": [
+          [
+            53.72586669921875,
+            82.03946940104167,
+            306.85866292317706,
+            589.124267578125
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              36.266666666666666,
+              4.266666666666667,
+              330.66666666666663,
+              695.4666666666667
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              59.733333333333334,
+              108.8,
+              298.6666666666667,
+              552.5333333333333
+            ]
+          }
+        ]
+      },
+      "case0088_003.png": {
+        "scan_id": "3",
+        "caption": "The tumour shows iso-signal intensity on T2WI",
+        "bbox_2d_gold": [
+          [
+            19.2,
+            140.8,
+            255.99999999999997,
+            618.6666666666667
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              19.2,
+              140.8,
+              255.99999999999997,
+              618.6666666666667
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0034": {
+    "clinical_history": "The patient presented with headache, generalized weakness, abnormal gait and loss of balance which gradually developed over the period of the past 2 years. There was no sensorymotor deficit.",
+    "title": "Intracranial epidermoid cyst",
+    "publication_date": "02.05.2016",
+    "differential_diagnosis": "Epidermoid cyst; Arachnoid cyst; Dermoid cyst",
+    "final_diagnosis": "Epidermoid cyst",
+    "link": "https://eurorad.org/case/13624",
+    "image_findings": {
+      "case0034_003.png": {
+        "scan_id": "3",
+        "caption": "A well-defined midline abnormal signal intensity area appearing hyperintense on T2W sequence.",
+        "bbox_2d_gold": [
+          [
+            360.5546549479167,
+            577.7109375,
+            707.83359375,
+            922.85654296875
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              352.0,
+              576.0,
+              710.4,
+              932.2666666666667
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              373.3333333333333,
+              580.2666666666667,
+              704.0,
+              908.8
+            ]
+          }
+        ]
+      },
+      "case0034_004.png": {
+        "scan_id": "4",
+        "caption": "A large midline abnormal signal intensity area partial suppression on Flair sequence giving \"dirty CSF\" appearance.",
+        "bbox_2d_gold": [
+          [
+            366.93333333333334,
+            578.1333333333333,
+            750.9333333333334,
+            851.2
+          ],
+          [
+            571.7333333333333,
+            369.06666666666666,
+            738.1333333333333,
+            522.6666666666666
+          ],
+          [
+            285.8666666666667,
+            394.6666666666667,
+            386.1333333333333,
+            512.0
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              366.93333333333334,
+              578.1333333333333,
+              750.9333333333334,
+              851.2
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              571.7333333333333,
+              369.06666666666666,
+              738.1333333333333,
+              522.6666666666666
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              285.8666666666667,
+              394.6666666666667,
+              386.1333333333333,
+              512.0
+            ]
+          }
+        ]
+      },
+      "case0034_001.png": {
+        "scan_id": "1",
+        "caption": "A large infratentorial midline abnormal signal intensity area appearing hypointense on T1W  sequence showing typical \"dirty CSF\" appearance.",
+        "bbox_2d_gold": [
+          [
+            397.58505859375,
+            575.4581380208333,
+            698.9269205729166,
+            888.31572265625
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              418.1333333333333,
+              610.1333333333333,
+              684.8,
+              889.5999999999999
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              384.0,
+              552.5333333333333,
+              708.2666666666667,
+              887.4666666666667
+            ]
+          }
+        ]
+      },
+      "case0034_002.png": {
+        "scan_id": "2",
+        "caption": "No enhancement on post-Gadolinium sequences.",
+        "bbox_2d_gold": [
+          [
+            398.93333333333334,
+            552.7338541666667,
+            694.57919921875,
+            871.04423828125
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              398.93333333333334,
+              561.0666666666666,
+              716.8,
+              868.2666666666667
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              398.93333333333334,
+              548.2666666666667,
+              682.6666666666667,
+              872.5333333333333
+            ]
+          }
+        ]
+      },
+      "case0034_005.png": {
+        "scan_id": "5",
+        "caption": "Dilated lateral ventricle",
+        "bbox_2d_gold": [
+          [
+            554.0821614583333,
+            411.21279296874997,
+            810.2954915364583,
+            624.6741210937499
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              601.6,
+              439.46666666666664,
+              793.6,
+              614.4
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              522.6666666666666,
+              392.5333333333333,
+              821.3333333333333,
+              631.4666666666667
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0005": {
+    "clinical_history": "A 15-year-old male patient with history of seizures and limb spasm presented at our hospital.",
+    "title": "Hypoparathyroidism:Case report",
+    "publication_date": "01.09.2015",
+    "differential_diagnosis": "Basal ganglia calcifications secondary to hypoparathyroidism; Hyperparathyroidism; Familial idiopathic cerebral calcification (Fahr\u2019s syndrome); Birth anoxia; Carbon monoxide intoxication; Lead poisoning",
+    "final_diagnosis": "Basal ganglia calcifications secondary to hypoparathyroidism",
+    "link": "https://eurorad.org/case/12995",
+    "image_findings": {
+      "case0005_003.png": {
+        "scan_id": "3",
+        "caption": "T2 weighted MR axial sections through brain revealed  bilateral symmetrical hyperintense basal ganglia",
+        "bbox_2d_gold": [
+          [
+            309.3333333333333,
+            347.73333333333335,
+            488.5333333333333,
+            558.9333333333334
+          ],
+          [
+            520.5333333333333,
+            345.6,
+            731.7333333333333,
+            558.9333333333334
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              309.3333333333333,
+              347.73333333333335,
+              488.5333333333333,
+              558.9333333333334
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              520.5333333333333,
+              345.6,
+              731.7333333333333,
+              558.9333333333334
+            ]
+          }
+        ]
+      },
+      "case0005_001.png": {
+        "scan_id": "1",
+        "caption": "T1 hyperintense signals in bilateral basal ganglia",
+        "bbox_2d_gold": [
+          [
+            317.11572265625,
+            343.91038411458334,
+            557.7898600260417,
+            583.4922526041667
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              290.1333333333333,
+              332.8,
+              746.6666666666666,
+              586.6666666666667
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              326.4,
+              347.73333333333335,
+              492.79999999999995,
+              582.4
+            ]
+          }
+        ]
+      },
+      "case0005_002.png": {
+        "scan_id": "2",
+        "caption": "T2* image through brain showing drop out signals in bilateral basal ganglia, corresponding to calcifications seen on CT",
+        "bbox_2d_gold": [
+          [
+            345.6,
+            354.1333333333333,
+            467.20000000000005,
+            533.3333333333333
+          ],
+          [
+            563.2,
+            364.8,
+            678.4000000000001,
+            524.8
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              345.6,
+              354.1333333333333,
+              467.20000000000005,
+              533.3333333333333
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              563.2,
+              364.8,
+              678.4000000000001,
+              524.8
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0080": {
+    "clinical_history": "A six-year-old male child presented to the emergency room complaining about weakness, lethargy, abnormal respiration and episodes of vomiting together with dizziness one month before. The parents admitted to developmental delay, eating disorders, seizures, iron-deficiency-anaemia under treatment, and surgical excision of adenoids 2 months ago. Workup revealed elevated ammonia and methylmalonyc acid levels and low vitamin-B12 levels in the blood.",
+    "title": "Methylmalonic acidaemia (MMA) in a child",
+    "publication_date": "05.10.2017",
+    "differential_diagnosis": "Methylmalonic acidaemia (MMA); Propionic acidaemia; Pyruvate dehydrogenase deficiency; Kernicterus; Carbon monoxide poisoning",
+    "final_diagnosis": "Methylmalonic acidaemia (MMA)",
+    "link": "https://eurorad.org/case/15037",
+    "image_findings": {
+      "case0080_006.png": {
+        "scan_id": "6",
+        "caption": "Axial T2-weighted image showing hyperintensity in bilateral cerebral penducles.",
+        "bbox_2d_gold": [
+          [
+            459.639453125,
+            465.49973958333334,
+            631.867724609375,
+            583.6778727213541
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              411.73333333333335,
+              462.93333333333334,
+              642.1333333333333,
+              584.5333333333333
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              531.2,
+              469.3333333333333,
+              616.5333333333334,
+              582.4
+            ]
+          }
+        ]
+      },
+      "case0080_002.png": {
+        "scan_id": "2",
+        "caption": "Axial FLAIR image depicting hyperintensity in the basal ganglia.",
+        "bbox_2d_gold": [
+          [
+            569.0559895833334,
+            414.0671875,
+            687.5775878906251,
+            563.1999837239583
+          ],
+          [
+            341.5338541666667,
+            412.6783854166667,
+            456.5333170572917,
+            559.6778483072917
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              576.0,
+              422.4,
+              684.8,
+              563.2
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              565.3333333333334,
+              409.6,
+              689.0666666666667,
+              563.2
+            ]
+          },
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              349.8666666666667,
+              422.4,
+              456.53333333333336,
+              561.0666666666666
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              337.06666666666666,
+              407.46666666666664,
+              456.5333333333333,
+              558.9333333333333
+            ]
+          }
+        ]
+      },
+      "case0080_003.png": {
+        "scan_id": "3",
+        "caption": "Axial FLAIR image showing hyperintensity in the brainstem.",
+        "bbox_2d_gold": [
+          [
+            425.9351888020833,
+            467.04638671875,
+            643.19384765625,
+            635.784521484375
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              405.3333333333333,
+              448.0,
+              646.4,
+              642.1333333333333
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              433.02399088541665,
+              473.59999999999997,
+              642.0906575520833,
+              633.5999999999999
+            ]
+          }
+        ]
+      },
+      "case0080_004.png": {
+        "scan_id": "4",
+        "caption": "Axial gadolinium-enhanced T1-weighted image showing mild peripheral enhancement of the lentiform nuclei.",
+        "bbox_2d_gold": [
+          [
+            332.8,
+            413.8666666666667,
+            443.73333333333335,
+            569.6
+          ],
+          [
+            571.7333333333333,
+            426.6666666666667,
+            682.6666666666667,
+            576.0
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              332.8,
+              413.8666666666667,
+              443.73333333333335,
+              569.6
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              571.7333333333333,
+              426.6666666666667,
+              682.6666666666667,
+              576.0
+            ]
+          }
+        ]
+      },
+      "case0080_005.png": {
+        "scan_id": "5",
+        "caption": "Coronal gadolinium-enhanced T1-weighted image showing peripheral enhancement of the lentiform nuclei.",
+        "bbox_2d_gold": [
+          [
+            352.0,
+            339.2,
+            456.5333333333333,
+            452.26666666666665
+          ],
+          [
+            563.2,
+            352.0,
+            682.6666666666667,
+            465.06666666666666
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              352.0,
+              339.2,
+              456.5333333333333,
+              452.26666666666665
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              563.2,
+              352.0,
+              682.6666666666667,
+              465.06666666666666
+            ]
+          }
+        ]
+      },
+      "case0080_001.png": {
+        "scan_id": "1",
+        "caption": "ADC map showing hyperintense lesions in globus pallidi, sign of chronicity.",
+        "bbox_2d_gold": [
+          [
+            332.8,
+            409.6,
+            435.20000000000005,
+            539.7333333333333
+          ],
+          [
+            573.8666666666667,
+            413.8666666666667,
+            678.4,
+            550.4
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              332.8,
+              409.6,
+              435.20000000000005,
+              539.7333333333333
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              573.8666666666667,
+              413.8666666666667,
+              678.4,
+              550.4
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0150": {
+    "clinical_history": "A 66-year-old female with type II diabetes mellitus since 25 years on irregular treatment, presenting with complaint of random, uncontrollable, involuntary, jerking movements of left upper limb and left lower-limb , her random blood sugar was found 580 mg/dl, HbA1c -17.46% and urine ketones ++.",
+    "title": "Diabetic striatopathy with ketoacidosis in older diabetic woman: A case report with CT and MRI findings.",
+    "publication_date": "11.02.2021",
+    "differential_diagnosis": "Diabetic striatopathy; Wilson\u2019s disease; Manganese toxicity; Chronic hepatic encephalopathy; Striato-capsular infarct",
+    "final_diagnosis": "Diabetic striatopathy",
+    "link": "https://eurorad.org/case/17161",
+    "image_findings": {
+      "case0150_001.png": {
+        "scan_id": "1",
+        "caption": "MRI T1WI axial image shows hyperintense signal intensity involving right caudate nucleus and putamen.",
+        "bbox_2d_gold": [
+          [
+            375.45598958333335,
+            388.27734375,
+            484.27731933593753,
+            577.7109375
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              379.73333333333335,
+              384.0,
+              480.0,
+              576.0
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              369.06666666666666,
+              394.6666666666667,
+              490.66666666666663,
+              580.2666666666667
+            ]
+          }
+        ]
+      },
+      "case0150_002.png": {
+        "scan_id": "2",
+        "caption": "MRI T2WI axial image show hypointense signal intensity involving right caudate nucleus and putamen.",
+        "bbox_2d_gold": [
+          [
+            377.5893229166667,
+            378.85654296875,
+            465.9327880859375,
+            573.856005859375
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              381.8666666666667,
+              388.26666666666665,
+              460.8,
+              578.1333333333333
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              371.2,
+              364.8,
+              473.6,
+              567.4666666666667
+            ]
+          }
+        ]
+      },
+      "case0150_003.png": {
+        "scan_id": "3",
+        "caption": "FLAIR axial image show hypointense signal intensity involving right caudate nucleus and putamen.",
+        "bbox_2d_gold": [
+          [
+            374.22923177083334,
+            414.27838541666665,
+            468.1278971354167,
+            598.1994466145833
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              377.68531901041666,
+              420.26666666666665,
+              458.7519856770833,
+              593.0666666666666
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              369.06666666666666,
+              405.3333333333333,
+              482.1333333333333,
+              605.8666666666667
+            ]
+          }
+        ]
+      },
+      "case0150_004.png": {
+        "scan_id": "4",
+        "caption": "ADC images shows no evidence of diffusion restriction.",
+        "bbox_2d_gold": [
+          [
+            359.7823893229167,
+            349.16692708333335,
+            457.33545735677086,
+            614.0586588541667
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              332.8,
+              328.5333333333333,
+              490.6666666666667,
+              637.8666666666666
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              369.06666666666666,
+              356.26666666666665,
+              445.8666666666667,
+              605.8666666666667
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0127": {
+    "clinical_history": "19-year-old girl presented with mild tremors of hand in the last two months and giddiness, vomiting in the past two days. There was no significant history of similar complaints or other major illnesses in the patient's family. Neurologic examination showed subtle extra pyramidal symptoms and hence was referred for brain MRI.",
+    "title": "Case of Wilson\u00a0disease in a patient with giddiness",
+    "publication_date": "19.08.2021",
+    "differential_diagnosis": "Case of Wilson disease in a patient with giddiness; Carbon Monoxide Poisoning; Leigh Disease; Huntington Disease",
+    "final_diagnosis": "Case of Wilson disease in a patient with giddiness",
+    "link": "https://eurorad.org/case/16733",
+    "image_findings": {
+      "case0127_001.png": {
+        "scan_id": "1",
+        "caption": "T2-weighted axial MRI demonstrates symmetric hyperintense signals in the putamen, and thalami.",
+        "bbox_2d_gold": [
+          [
+            315.73333333333335,
+            328.5333333333333,
+            445.8666666666667,
+            586.6666666666666
+          ],
+          [
+            529.0666666666666,
+            320.0,
+            667.7333333333332,
+            582.4
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              315.73333333333335,
+              328.5333333333333,
+              445.8666666666667,
+              586.6666666666666
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              529.0666666666666,
+              320.0,
+              667.7333333333332,
+              582.4
+            ]
+          }
+        ]
+      },
+      "case0127_002.png": {
+        "scan_id": "2",
+        "caption": "T2-weighted axial MRI demonstrates the \u201cface of the giant panda\u201d in the midbrain with high signal in tegmentum and normal red nuclei.",
+        "bbox_2d_gold": [
+          [
+            433.9114583333333,
+            486.4,
+            602.0437174479166,
+            599.8890706380208
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              437.3333333333333,
+              486.4,
+              595.2,
+              601.6
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              428.8,
+              486.4,
+              612.2666666666667,
+              597.3333333333333
+            ]
+          }
+        ]
+      },
+      "case0127_003.png": {
+        "scan_id": "3",
+        "caption": "T2-weighted axial MRI reveals the \u201cface of the miniature panda\u201d in pons with hypointensity of central tegmental tracts with hyper intensity of periaqueductal opening to fourth ventricle.",
+        "bbox_2d_gold": [
+          [
+            461.03893229166664,
+            515.5669270833333,
+            579.9253336588541,
+            627.2511962890625
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              424.5333333333333,
+              494.93333333333334,
+              603.7333333333333,
+              633.6
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              473.59999999999997,
+              522.6666666666666,
+              571.7333333333333,
+              625.0666666666666
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0275": {
+    "clinical_history": "The patient is a 5-year-old male with a history of medicated panhypopituitarism and psychomotor development delay. Ophthalmologic examination revealed an absence of light perception and a pale optic disc on the left side.",
+    "title": "Septo-optic dysplasia plus syndrome",
+    "publication_date": "12.09.2024",
+    "differential_diagnosis": "Septo-optic dysplasia plus syndrome; Lobar holoprosencephaly; Congenital hypopituitarism; Kallmann syndrome",
+    "final_diagnosis": "Septo-optic dysplasia plus syndrome",
+    "link": "https://eurorad.org/case/18692",
+    "image_findings": {
+      "case0275_001.png": {
+        "scan_id": "1",
+        "caption": "Polymicrogyria. Axial (4a) and sagittal (4b) T1-weighted images show bilateral perisylvian polymicrogyria with insular and frontoparietal involvement, more extensive on the right side. The sylvian fissures extend superiorly, beyond their typical anatomic location.",
+        "bbox_2d_gold": [
+          [
+            68.26666666666667,
+            330.6666666666667,
+            339.2,
+            669.8666666666667
+          ],
+          [
+            746.6666666666666,
+            471.46666666666664,
+            949.3333333333333,
+            721.0666666666666
+          ],
+          [
+            469.3333333333333,
+            290.1333333333333,
+            571.7333333333333,
+            665.5999999999999
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              68.26666666666667,
+              330.6666666666667,
+              339.2,
+              669.8666666666667
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              746.6666666666666,
+              471.46666666666664,
+              949.3333333333333,
+              721.0666666666666
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              469.3333333333333,
+              290.1333333333333,
+              571.7333333333333,
+              665.5999999999999
+            ]
+          }
+        ]
+      },
+      "case0275_002.png": {
+        "scan_id": "2",
+        "caption": "Polymicrogyria. Axial (4a) and sagittal (4b) T1-weighted images show bilateral perisylvian polymicrogyria with insular and frontoparietal involvement, more extensive on the right side. The sylvian fissures extend superiorly, beyond their typical anatomic location.",
+        "bbox_2d_gold": [
+          [
+            178.73492838541665,
+            79.66079915364583,
+            586.2975911458334,
+            408.7018798828125
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              194.13333333333333,
+              130.13333333333333,
+              563.2,
+              426.66666666666663
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              155.73333333333332,
+              4.266666666666667,
+              620.8,
+              381.8666666666667
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0274": {
+    "clinical_history": "A 42-year-old female with a history of chronic cough and night sweats presented to the emergency department with a 2-week history of headache, fever, confusion, and altered mental status. The patient had no significant past medical history or known contact with tuberculosis. On examination, she was febrile (38.5\u00b0C), disoriented, and had nuchal rigidity. No focal neurological deficits were noted.",
+    "title": "Tuberculosis meningoencephalitis mimicking herpes encephalitis",
+    "publication_date": "22.08.2024",
+    "differential_diagnosis": "Differential Diagnosis not found.",
+    "final_diagnosis": "Tuberculosis meningoencephalitis",
+    "link": "https://eurorad.org/case/18669",
+    "image_findings": {
+      "case0274_001.png": {
+        "scan_id": "1",
+        "caption": "MRI DWI and ADC images showing cortical diffusion restriction in bilateral insular and cingulate gyrus (R > L) with infarct in the right posterior limb of the internal capsule.",
+        "bbox_2d_gold": [
+          [
+            147.2,
+            91.73333333333333,
+            704.0,
+            588.8
+          ],
+          [
+            582.4,
+            605.8666666666667,
+            753.0666666666666,
+            878.9333333333334
+          ],
+          [
+            727.4666666666667,
+            352.0,
+            878.9333333333334,
+            599.4666666666667
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              147.2,
+              91.73333333333333,
+              704.0,
+              588.8
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              582.4,
+              605.8666666666667,
+              753.0666666666666,
+              878.9333333333334
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              727.4666666666667,
+              352.0,
+              878.9333333333334,
+              599.4666666666667
+            ]
+          }
+        ]
+      },
+      "case0274_002.png": {
+        "scan_id": "2",
+        "caption": "MRI FLAIR and T2 images, axial, coronal and sagittal sections showing hyperintensity and cortical swelling in bilateral inferior frontal and mesiotemporal regions (R > L).",
+        "bbox_2d_gold": [
+          [
+            179.68938802083332,
+            277.1214192708333,
+            877.1315104166666,
+            776.5646158854166
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              152.74666341145834,
+              332.4373372395833,
+              814.0799967447917,
+              812.4373372395833
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              194.13333333333333,
+              247.46666666666667,
+              910.9333333333333,
+              757.3333333333334
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0043": {
+    "clinical_history": "A 6-year-old boy came for MRI with complaints of delayed development, hypotonia, seizures. Birth history was normal and he was born to non-consanguineous parents. His younger sibling was normal. On clinical examination, the patient had multiple hypopigmented and hyperpigmented patches on limbs, back and chest.",
+    "title": "Hypomelanosis of Ito with central nervous system manifestation",
+    "publication_date": "02.10.2016",
+    "differential_diagnosis": "Hypomelanosis of Ito; Tuberous sclerosis; Vitiligo; Neurofibromatosis",
+    "final_diagnosis": "Hypomelanosis of Ito",
+    "link": "https://eurorad.org/case/14076",
+    "image_findings": {
+      "case0043_001.png": {
+        "scan_id": "1",
+        "caption": "FLAIR axial image showing hyperintensities in deep periventricular white matter bilaterally with small hypointense cysts within affected white matter.",
+        "bbox_2d_gold": [
+          [
+            543.34677734375,
+            282.96845703125,
+            743.9377115885417,
+            761.8228515625
+          ],
+          [
+            247.49640299479165,
+            508.598828125,
+            437.82172851562495,
+            795.5129557291666
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              510.29332682291664,
+              309.39733072916664,
+              742.82666015625,
+              770.1973307291667
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              561.0666666666666,
+              268.8,
+              744.5333333333333,
+              757.3333333333333
+            ]
+          },
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              187.861328125,
+              299.3066731770833,
+              426.79466145833334,
+              807.0400065104167
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              279.46666666666664,
+              620.8,
+              443.7333333333333,
+              789.3333333333333
+            ]
+          }
+        ]
+      },
+      "case0043_002.png": {
+        "scan_id": "2",
+        "caption": "FLAIR axial image showing hyperintensities in deep periventricular white matter bilaterally with small hypointense cysts within affected white matter.",
+        "bbox_2d_gold": [
+          [
+            586.7178385416667,
+            316.2794596354167,
+            745.727978515625,
+            722.6367838541667
+          ],
+          [
+            232.772265625,
+            215.330126953125,
+            467.3535970052083,
+            820.3775878906249
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              593.0666666666666,
+              317.8666666666667,
+              761.5999999999999,
+              652.8
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              584.5333333333333,
+              315.73333333333335,
+              740.2666666666667,
+              746.6666666666667
+            ]
+          },
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              196.26666666666665,
+              264.5333333333333,
+              486.4,
+              768.0
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              245.33333333333334,
+              198.4,
+              460.8,
+              838.4
+            ]
+          }
+        ]
+      },
+      "case0043_005.png": {
+        "scan_id": "5",
+        "caption": "T2W axial image showing  hyperintensities in deep periventricular white matter with small hyperintense cysts.",
+        "bbox_2d_gold": [
+          [
+            272.21119791666666,
+            347.73333333333335,
+            411.3109375,
+            698.4021484375
+          ],
+          [
+            571.27890625,
+            317.021875,
+            741.9562337239583,
+            677.89228515625
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              273.06666666666666,
+              347.73333333333335,
+              409.6,
+              718.9333333333334
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              270.93333333333334,
+              347.73333333333335,
+              413.8666666666667,
+              667.7333333333333
+            ]
+          },
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              582.4,
+              313.6,
+              748.8,
+              710.4000000000001
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              554.6666666666666,
+              322.1333333333333,
+              731.7333333333333,
+              629.3333333333333
+            ]
+          }
+        ]
+      },
+      "case0043_003.png": {
+        "scan_id": "3",
+        "caption": "T1W axial image showing  hypointense cysts in deep periventricular white matter.",
+        "bbox_2d_gold": [
+          [
+            272.5226725260417,
+            345.35680338541664,
+            396.59947102864584,
+            714.8245442708333
+          ],
+          [
+            592.3251302083333,
+            322.809375,
+            742.9896647135417,
+            727.3405598958334
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              279.46666666666664,
+              364.8,
+              388.26666666666665,
+              750.9333333333334
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              268.8,
+              334.93333333333334,
+              401.06666666666666,
+              695.4666666666667
+            ]
+          },
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              602.8800130208333,
+              347.9466796875,
+              720.2133463541667,
+              719.1466796875
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              586.6666666666666,
+              309.3333333333333,
+              755.1999999999999,
+              731.7333333333333
+            ]
+          }
+        ]
+      },
+      "case0043_004.png": {
+        "scan_id": "4",
+        "caption": "T1W sagittal image showing  hypointense cysts in deep periventricular white matter.",
+        "bbox_2d_gold": [
+          [
+            269.30133463541665,
+            231.44532877604166,
+            779.6117187499999,
+            484.4671875
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              290.1333333333333,
+              245.33333333333334,
+              789.3333333333333,
+              492.8
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              258.1333333333333,
+              224.0,
+              774.4,
+              480.0
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0212": {
+    "clinical_history": "A 3-year-old boy presented with a history of development delay, showing difficulties in the acquisition of words and sentence construction, and delayed capacity to walk without support. Parents concerns first began at 2 months of age because of hypotonia. Physical examination showed brachycephaly, ataxic gait and dysmetria.",
+    "title": "L-2-hydroxyglutaric aciduria: The role of neuroimaging in diagnosis",
+    "publication_date": "17.11.2022",
+    "differential_diagnosis": "Differential Diagnosis not found.",
+    "final_diagnosis": "L-2-hydroxyglutaric aciduria",
+    "link": "https://eurorad.org/case/17933",
+    "image_findings": {
+      "case0212_001.png": {
+        "scan_id": "1",
+        "caption": "Axial FLAIR presented bilateral hyperintensities of the frontoparietal and temporal subcortical WM, (c) more pronounced on the right in the latter. (d) Axial T2WI with hyperintensity of posterior periventricular WM bilaterally",
+        "bbox_2d_gold": [
+          [
+            337.41865234375,
+            191.57760416666667,
+            893.4229492187501,
+            791.0229166666667
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              196.26666666666665,
+              189.86666666666667,
+              900.2666666666667,
+              797.8666666666667
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              548.2666666666667,
+              194.13333333333333,
+              883.2,
+              780.8
+            ]
+          }
+        ]
+      },
+      "case0212_002.png": {
+        "scan_id": "2",
+        "caption": "Axial FLAIR presented bilateral hyperintensities of the frontoparietal and temporal subcortical WM, (c) more pronounced on the right in the latter. (d) Axial T2WI with hyperintensity of posterior periventricular WM bilaterally",
+        "bbox_2d_gold": [
+          [
+            592.6549479166666,
+            335.31305338541665,
+            947.1786783854166,
+            784.1472005208334
+          ],
+          [
+            36.710400390625,
+            312.36481119791665,
+            385.77491861979166,
+            840.4373372395833
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              586.6666666666666,
+              354.1333333333333,
+              955.7333333333333,
+              810.6666666666666
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              601.6,
+              307.2,
+              934.4000000000001,
+              744.5333333333333
+            ]
+          },
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              29.866666666666667,
+              294.4,
+              358.4,
+              878.9333333333333
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              46.93333333333333,
+              339.2,
+              426.6666666666667,
+              782.9333333333334
+            ]
+          }
+        ]
+      },
+      "case0212_003.png": {
+        "scan_id": "3",
+        "caption": "Axial T2WI demonstrated hyperintensity of the globi pallidi, and a linear hyperintensity contouring the borders of both putamen and the head of the caudate nucleus",
+        "bbox_2d_gold": [
+          [
+            258.1333333333333,
+            330.6666666666667,
+            465.06666666666666,
+            580.2666666666667
+          ],
+          [
+            541.8666666666667,
+            337.06666666666666,
+            765.8666666666667,
+            588.8
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              258.1333333333333,
+              330.6666666666667,
+              465.06666666666666,
+              580.2666666666667
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              541.8666666666667,
+              337.06666666666666,
+              765.8666666666667,
+              588.8
+            ]
+          }
+        ]
+      },
+      "case0212_004.png": {
+        "scan_id": "4",
+        "caption": "Increased diffusivity on DWI of the globi pallidi and dentate nucleus with elevation of ADC",
+        "bbox_2d_gold": [
+          [
+            556.8,
+            413.8666666666667,
+            780.8,
+            614.4
+          ],
+          [
+            270.93333333333334,
+            416.0,
+            437.33333333333337,
+            597.3333333333334
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              556.8,
+              413.8666666666667,
+              780.8,
+              614.4
+            ]
+          },
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              270.93333333333334,
+              416.0,
+              437.33333333333337,
+              597.3333333333334
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0113": {
+    "clinical_history": "A 44-year-old female presented to the Neurology clinic complaining of chronic headache. She had no other complaint. There was no history of any associated aura or nausea. Patient refused for a Computed tomography of brain due to radiation hazard and underwent a non contrast MRI of brain.",
+    "title": "Familial Cerebral Cavernous malformation Syndrome: A Silent Threat",
+    "publication_date": "15.11.2018",
+    "differential_diagnosis": "FAMILIAL CEREBRAL CAVERNOUS MALFORMATION SYNDROME; Amyloid angiopathy; Hypertensive bleed",
+    "final_diagnosis": "FAMILIAL CEREBRAL CAVERNOUS MALFORMATION SYNDROME",
+    "link": "https://eurorad.org/case/16308",
+    "image_findings": {
+      "case0113_001.png": {
+        "scan_id": "1",
+        "caption": "T1W axial image shows a well defined hyperintense lesion in right frontal region.",
+        "bbox_2d_gold": [
+          [
+            243.592529296875,
+            391.6629231770833,
+            317.8666666666667,
+            468.4842529296875
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              253.86666666666667,
+              396.8,
+              317.8666666666667,
+              467.20000000000005
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              236.79999999999998,
+              388.26666666666665,
+              317.8666666666667,
+              469.3333333333333
+            ]
+          }
+        ]
+      },
+      "case0113_002.png": {
+        "scan_id": "2",
+        "caption": "T2W axial image shows a well defined mixed signal intensity lesion in right frontal region with surrounding hemosiderin rim.",
+        "bbox_2d_gold": [
+          [
+            205.60639648437498,
+            372.9194661458333,
+            311.53066406249997,
+            468.0704020182292
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              219.73333333333332,
+              369.06666666666666,
+              292.26666666666665,
+              462.93333333333334
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              196.26666666666665,
+              375.46666666666664,
+              324.26666666666665,
+              471.46666666666664
+            ]
+          }
+        ]
+      },
+      "case0113_003.png": {
+        "scan_id": "3",
+        "caption": "T2W axial image shows a well defined mixed signal intensity lesion in left cerebellar hemisphere showing peripheral hypointense hemosiderin rim",
+        "bbox_2d_gold": [
+          [
+            561.0666666666666,
+            686.9333333333333,
+            721.0666666666666,
+            789.3333333333333
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              561.0666666666666,
+              686.9333333333333,
+              721.0666666666666,
+              789.3333333333333
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0106": {
+    "clinical_history": "A 32-year-old male patient presented with complaints of sudden loss of consciousness and right-sided weakness for the past 2 days. The patient had chronic cough with expectoration, low-grade fever and weight loss for the past 6 months.",
+    "title": "Pontine tuberculoma in a known case of tuberculosis",
+    "publication_date": "24.09.2018",
+    "differential_diagnosis": "Pontine tuberculoma; Neurocysticercosis; Cerebral toxoplasmosis; Glioblastoma; Intracranial metastasis",
+    "final_diagnosis": "Pontine tuberculoma",
+    "link": "https://eurorad.org/case/16105",
+    "image_findings": {
+      "case0106_003.png": {
+        "scan_id": "3",
+        "caption": "T2 axial scan shows heterogeneously hypointense lesion involving pons predominantly on left side, with surrounding hyperintensity due to oedema. The lesion posteriorly causes narrowing of fourth ventricle.",
+        "bbox_2d_gold": [
+          [
+            285.0538736979167,
+            467.2,
+            755.1466796875,
+            811.9338541666666
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              268.8,
+              467.2,
+              776.5333333333333,
+              817.0666666666666
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              309.3333333333333,
+              467.2,
+              723.2,
+              804.2666666666667
+            ]
+          }
+        ]
+      },
+      "case0106_004.png": {
+        "scan_id": "4",
+        "caption": "On FLAIR sequence the lesion appears hypo to isointense with internal hypointense area. Surrounding area of both cerebellar hemisphere also appears hyperintense due to perilesional oedema.",
+        "bbox_2d_gold": [
+          [
+            311.8080078125,
+            456.3797200520833,
+            740.8639973958334,
+            806.2122395833333
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              288.0,
+              437.3333333333333,
+              748.8,
+              849.0666666666666
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              320.0,
+              462.93333333333334,
+              738.1333333333333,
+              791.4666666666667
+            ]
+          }
+        ]
+      },
+      "case0106_001.png": {
+        "scan_id": "1",
+        "caption": "On postcontrast T1 fat sat scan ring-enhancing lesion is seen involving pons predominantly on left side.",
+        "bbox_2d_gold": [
+          [
+            461.03893229166664,
+            504.50774739583335,
+            615.2021321614583,
+            688.076806640625
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              424.5333333333333,
+              501.3333333333333,
+              648.5333333333333,
+              697.5999999999999
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              473.59999999999997,
+              505.59999999999997,
+              603.7333333333333,
+              684.8
+            ]
+          }
+        ]
+      },
+      "case0106_002.png": {
+        "scan_id": "2",
+        "caption": "Postcontrast T1 iso 3D sequence also shows ring-enhancing lesion.",
+        "bbox_2d_gold": [
+          [
+            462.23359375,
+            499.09759114583335,
+            595.4047932942708,
+            662.4767903645834
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              441.59999999999997,
+              486.4,
+              620.8,
+              672.0
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              469.3333333333333,
+              503.46666666666664,
+              586.6666666666666,
+              659.1999999999999
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0208": {
+    "clinical_history": "A 15-year-old male with a history of refractory epilepsy for the last three years. During the previous weeks, the patient had a gradual clinical worsening with frequent and prolonged seizures. The patient had no other relevant clinical history. The patient was submitted to an electroencephalogram (EEG) that revealed interictal and sporadic paroxysmal activity with a right superior frontal location.",
+    "title": "Angiocentric Glioma, a rare long-term associated-epilepsy tumour",
+    "publication_date": "07.10.2022",
+    "differential_diagnosis": "Angiocentric glioma; Dysembryoplastic neuroepithelial tumour (DNET); Multinodular and Vacuolating Neuronal Tumor (MVNT); Ganglioglioma; Oligodendroglioma",
+    "final_diagnosis": "Angiocentric glioma",
+    "link": "https://eurorad.org/case/17881",
+    "image_findings": {
+      "case0208_001.png": {
+        "scan_id": "1",
+        "caption": "No abnormal enhancement was seen in the post-contrast T1 FSE sequence.",
+        "bbox_2d_gold": [
+          [
+            363.5221354166667,
+            244.06612955729167,
+            476.57813313802086,
+            395.94453125
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              362.6666666666667,
+              238.93333333333334,
+              480.0,
+              396.8
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              364.8,
+              251.73333333333332,
+              471.4666666666667,
+              394.66666666666663
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0070": {
+    "clinical_history": "One month after having run out of his anti-hypertensive medication, a 61-year-old male patient was diagnosed in the emergency room as having had a stroke. Nine months after the stroke, he developed a synchronous tremor in his palate.",
+    "title": "Hypertrophic olivary degeneration",
+    "publication_date": "22.02.2018",
+    "differential_diagnosis": "Hypertrophic olivary degeneration; Demyelinating disorders; Astrocytoma; Infections",
+    "final_diagnosis": "Hypertrophic olivary degeneration",
+    "link": "https://eurorad.org/case/14830",
+    "image_findings": {
+      "case0070_001.png": {
+        "scan_id": "1",
+        "caption": "Day 0. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right.",
+        "bbox_2d_gold": [
+          [
+            421.09013671875,
+            590.4255859375,
+            577.7429361979166,
+            720.6335856119792
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              433.06666666666666,
+              622.9333333333333,
+              563.2,
+              723.1999999999999
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              403.2,
+              541.8666666666667,
+              599.4666666666667,
+              716.8
+            ]
+          }
+        ]
+      },
+      "case0070_002.png": {
+        "scan_id": "2",
+        "caption": "Day 30. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right.",
+        "bbox_2d_gold": [
+          [
+            468.8767903645833,
+            612.2666666666667,
+            560.26025390625,
+            671.5647989908854
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              477.8666666666667,
+              612.2666666666667,
+              546.1333333333333,
+              674.1333333333333
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              462.93333333333334,
+              612.2666666666667,
+              569.6,
+              669.8666666666667
+            ]
+          }
+        ]
+      },
+      "case0070_003.png": {
+        "scan_id": "3",
+        "caption": "Day 120. Interval evolution of haemorrhage of the dorsal pons, a slightly\neccentric to the right.",
+        "bbox_2d_gold": [
+          [
+            450.1333333333333,
+            580.2666666666667,
+            539.7333333333333,
+            644.2666666666667
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              450.1333333333333,
+              580.2666666666667,
+              539.7333333333333,
+              644.2666666666667
+            ]
+          }
+        ]
+      },
+      "case0070_011.png": {
+        "scan_id": "11",
+        "caption": "Day 0. Interval evolution of haemorrhage of the dorsal pons.",
+        "bbox_2d_gold": [
+          [
+            550.81171875,
+            525.6341471354167,
+            672.8767822265625,
+            691.7077473958334
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              556.8,
+              533.3333333333334,
+              663.4666666666666,
+              659.2
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              541.8666666666667,
+              514.1333333333333,
+              686.9333333333334,
+              740.2666666666667
+            ]
+          }
+        ]
+      },
+      "case0070_008.png": {
+        "scan_id": "8",
+        "caption": "Day 30. Interval evolution of haemorrhage of the dorsal pons.",
+        "bbox_2d_gold": [
+          [
+            586.21015625,
+            582.3360026041667,
+            693.4400227864583,
+            700.6037353515625
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              595.2,
+              601.6,
+              661.3333333333334,
+              695.4666666666667
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              580.2666666666667,
+              569.6,
+              714.6666666666666,
+              704.0
+            ]
+          }
+        ]
+      },
+      "case0070_009.png": {
+        "scan_id": "9",
+        "caption": "Day 120. Interval evolution of haemorrhage of the dorsal pons.",
+        "bbox_2d_gold": [
+          [
+            549.2053385416666,
+            586.6154947916666,
+            602.7434733072917,
+            661.3845621744791
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              533.3333333333334,
+              580.2666666666667,
+              612.2666666666667,
+              667.7333333333333
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              554.6666666666666,
+              588.8,
+              599.4666666666666,
+              659.1999999999999
+            ]
+          }
+        ]
+      },
+      "case0070_010.png": {
+        "scan_id": "10",
+        "caption": "Day 270. Interval evolution of haemorrhage of the dorsal pons.",
+        "bbox_2d_gold": [
+          [
+            576.0,
+            601.6,
+            631.4666666666667,
+            708.2666666666667
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              576.0,
+              601.6,
+              631.4666666666667,
+              708.2666666666667
+            ]
+          }
+        ]
+      },
+      "case0070_004.png": {
+        "scan_id": "4",
+        "caption": "Day 270. Interval\ndevelopment of an expansile lesion of the right medullary olive.",
+        "bbox_2d_gold": [
+          [
+            441.59999999999997,
+            610.1333333333333,
+            537.5999999999999,
+            823.4666666666667
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              441.59999999999997,
+              610.1333333333333,
+              537.5999999999999,
+              823.4666666666667
+            ]
+          }
+        ]
+      },
+      "case0070_005.png": {
+        "scan_id": "5",
+        "caption": "Day 270. Interval\ndevelopment of an expansile lesion of the right medullary olive.",
+        "bbox_2d_gold": [
+          [
+            433.92213541666666,
+            671.0591796875,
+            531.2,
+            822.6218424479166
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              433.06666666666666,
+              706.1333333333333,
+              531.2,
+              819.2
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              435.2,
+              618.6666666666666,
+              531.2,
+              827.7333333333333
+            ]
+          }
+        ]
+      },
+      "case0070_006.png": {
+        "scan_id": "6",
+        "caption": "Day 270. Interval development of an expansile lesion of the right medullary olive.",
+        "bbox_2d_gold": [
+          [
+            456.08961588541666,
+            706.1333333333333,
+            504.5120157877604,
+            811.4111979166667
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              467.2,
+              706.1333333333333,
+              518.4,
+              812.8
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              450.1333333333333,
+              706.1333333333333,
+              497.06666666666666,
+              810.6666666666666
+            ]
+          }
+        ]
+      },
+      "case0070_007.png": {
+        "scan_id": "7",
+        "caption": "Day 270. Interval development of an expansile lesion of the right medullary olive.",
+        "bbox_2d_gold": [
+          [
+            456.5333333333333,
+            622.9333333333333,
+            524.8,
+            806.4
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              456.5333333333333,
+              622.9333333333333,
+              524.8,
+              806.4
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0012": {
+    "clinical_history": "A 44-year-old gentleman, a known case of pulmonary sarcoidosis since 10 years, came to the ER department following an episode of seizure along with sudden onset weakness on the right side of the face and right lower limb. Clinically, vasculitis-induced stroke or a glioma were suspected.",
+    "title": "An interesting case of tumefactive demyelination",
+    "publication_date": "28.08.2016",
+    "differential_diagnosis": "Tumefactive demyelination.; Glioma; Stroke; ADEM; Lymphoma; Metastasis; Abscess; Neurosarcoidosis",
+    "final_diagnosis": "Tumefactive demyelination.",
+    "link": "https://eurorad.org/case/13166",
+    "image_findings": {
+      "case0012_003.png": {
+        "scan_id": "3",
+        "caption": "Axial T2WI image showing an ill-defined hyperintensity in left centrum semiovale.\nNo definite mass effect is noted.",
+        "bbox_2d_gold": [
+          [
+            505.0538736979167,
+            285.23639322916665,
+            801.7919921875,
+            825.0550455729167
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              503.46666666666664,
+              209.06666666666666,
+              825.5999999999999,
+              891.7333333333333
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              505.59999999999997,
+              311.4453450520833,
+              793.5999999999999,
+              802.11201171875
+            ]
+          }
+        ]
+      },
+      "case0012_004.png": {
+        "scan_id": "4",
+        "caption": "Axial  T1WI image  showing an ill-defined hypointensity in left centrum semiovale.\nNo definite mass effect is noted.",
+        "bbox_2d_gold": [
+          [
+            568.3541015625,
+            333.03893229166664,
+            792.8149088541667,
+            776.6869466145833
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              546.1333333333333,
+              296.5333333333333,
+              827.7333333333333,
+              795.7333333333333
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              576.0,
+              345.6,
+              780.8,
+              770.1333333333333
+            ]
+          }
+        ]
+      },
+      "case0012_005.png": {
+        "scan_id": "5",
+        "caption": "Axial FLAIR image showing an ill-defined hyperintensity in left centrum semiovale.",
+        "bbox_2d_gold": [
+          [
+            480.85546875,
+            310.621875,
+            747.9552083333333,
+            776.5013346354167
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              480.0,
+              307.2,
+              744.5333333333333,
+              789.3333333333333
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              482.1333333333333,
+              315.73333333333335,
+              753.0666666666666,
+              757.3333333333333
+            ]
+          }
+        ]
+      },
+      "case0012_006.png": {
+        "scan_id": "6",
+        "caption": "Coronal T2WI image showing an ill-defined hyperintensity in left centrum semiovale, periventricular and subcortical white matter. No definite mass effect is noted.",
+        "bbox_2d_gold": [
+          [
+            528.6655924479167,
+            177.46774088541667,
+            766.2890625,
+            486.4106770833333
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              518.4,
+              187.73333333333332,
+              768.0,
+              482.1333333333333
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              544.0,
+              162.13333333333333,
+              763.7333333333333,
+              492.8
+            ]
+          }
+        ]
+      },
+      "case0012_001.png": {
+        "scan_id": "1",
+        "caption": "Diffusion-weighted image shows no definite rim of restriction, which was appreciated in the initial scans.",
+        "bbox_2d_gold": [
+          [
+            552.215234375,
+            165.58426106770833,
+            817.3544270833333,
+            660.0525227864583
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              532.37333984375,
+              203.07200520833334,
+              743.5733398437501,
+              580.6720052083333
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              565.3333333333334,
+              140.8,
+              866.1333333333334,
+              712.5333333333333
+            ]
+          }
+        ]
+      },
+      "case0012_002.png": {
+        "scan_id": "2",
+        "caption": "Axial T2/ FLAIR image shows reduction in the size and extent of the white matter signal alteration.",
+        "bbox_2d_gold": [
+          [
+            520.7338541666667,
+            322.73492838541665,
+            737.1882486979166,
+            722.1546549479167
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              529.0666666666666,
+              347.73333333333335,
+              727.4666666666666,
+              708.2666666666667
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              516.2666666666667,
+              309.3333333333333,
+              742.4,
+              729.5999999999999
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0200": {
+    "clinical_history": "A 24-year-old man presented to our hospital with an established subacute dizziness with gait instability, ataxia, diplopia, dysarthria, dysphagia, slurred speech and quadriplegia. Cerebrospinal fluid analysis revealed elevated white blood cell count with lymphocytes. Extensive laboratory evaluation of serum and CSF biomarkers for autoimmune and infectious causes werd\u00a0negative.",
+    "title": "Editors selection\n\n    \n                              Chronic Lymphocytic Inflammation with Pontine Perivascular Enhancement Responsive to Steroids (CLIPPERS): a case presentation",
+    "publication_date": "28.07.2022",
+    "differential_diagnosis": "Differential Diagnosis not found.",
+    "final_diagnosis": "Chronic Lymphocytic",
+    "link": "https://eurorad.org/case/17834",
+    "image_findings": {
+      "case0200_001.png": {
+        "scan_id": "1",
+        "caption": "Axial T2 - weighted image showed high signal of the pons",
+        "bbox_2d_gold": [
+          [
+            419.85279947916666,
+            469.31201171875,
+            610.1546712239583,
+            615.3130859375
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              416.0,
+              475.73333333333335,
+              603.7333333333333,
+              597.3333333333334
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              422.4,
+              465.06666666666666,
+              614.4,
+              627.2
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0247": {
+    "clinical_history": "A 7-year-old female patient presents with regression of motor developmental milestones. The patient had a cough, low-grade fever and weight loss for the past 6 months.",
+    "title": "Cerebellar tuberculoma with resultant hydrocephalus",
+    "publication_date": "09.10.2023",
+    "differential_diagnosis": "Intracranial tuberculous abscess; Tuberculoma involving cerebellum with resultant hydrocephalus; Neurocysticercosis; Cerebral toxoplasmosis; Cerebral metastasis; CNS lymphoma",
+    "final_diagnosis": "Tuberculoma involving cerebellum with resultant hydrocephalus",
+    "link": "https://eurorad.org/case/18316",
+    "image_findings": {
+      "case0247_001.png": {
+        "scan_id": "1",
+        "caption": "On T2 weighted axial image, gross proximal hydrocephalus in form symmetrical dilatation of bilateral lateral ventricles and third ventricle due to compression over sylvian aqueduct",
+        "bbox_2d_gold": [
+          [
+            220.23466796875,
+            88.7274658203125,
+            781.5594726562499,
+            898.0330647786459
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              241.06666666666666,
+              170.66666666666666,
+              842.6666666666667,
+              893.8666666666667
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              209.06666666666666,
+              44.8,
+              748.8,
+              900.2666666666667
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0255": {
+    "clinical_history": "A 5-year-old boy presented to the paediatric clinic with a parietal cranial soft tissue mass present since birth. The mass had become progressively sore and increased in size. The patient had no significant medical history, other complaints, or neurological deficits.",
+    "title": "A case of sinus pericranii in a 5-year-old boy",
+    "publication_date": "09.11.2023",
+    "differential_diagnosis": "Haemangioma; Subgaleal haematoma; Pseudomeningocele; Sinus pericranii; Dermoid cyst",
+    "final_diagnosis": "Sinus pericranii",
+    "link": "https://eurorad.org/case/18372",
+    "image_findings": {
+      "case0255_001.png": {
+        "scan_id": "1",
+        "caption": "Sagittal T2 Flair image showing a subcutaneous extracranial soft tissue mass with high signal intensity and internal vascular structures with low signal intensity, probably representing flow voids.",
+        "bbox_2d_gold": [
+          [
+            729.1669270833333,
+            106.66666666666667,
+            921.5893229166667,
+            280.723193359375
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              731.7333333333333,
+              106.66666666666667,
+              925.8666666666667,
+              290.1333333333333
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              725.3333333333334,
+              106.66666666666667,
+              915.2,
+              266.6666666666667
+            ]
+          }
+        ]
+      },
+      "case0255_002.png": {
+        "scan_id": "2",
+        "caption": "Non-contrast enhanced sagittal T1-weighted image showing a subcutaneous extracranial soft tissue mass with intermediate signal intensity.",
+        "bbox_2d_gold": [
+          [
+            700.9427083333334,
+            101.51492513020833,
+            912.8595052083333,
+            308.209326171875
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              648.5333333333333,
+              61.86666666666667,
+              949.3333333333333,
+              305.06666666666666
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              718.9759765625,
+              115.15733235677084,
+              900.3093098958334,
+              309.29066569010416
+            ]
+          }
+        ]
+      },
+      "case0255_003.png": {
+        "scan_id": "3",
+        "caption": "Contrast-enhanced sagittal T1-weighted image showing high signal intensity. There is contrast enhancement in parts of the lesion, indicating communication with the venous system. A communicating emissary vein can be seen passing from the lesion through the skull.",
+        "bbox_2d_gold": [
+          [
+            701.8666666666667,
+            104.53333333333333,
+            915.2,
+            266.66666666666663
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              701.8666666666667,
+              104.53333333333333,
+              915.2,
+              266.66666666666663
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0135": {
+    "clinical_history": "A 71-year-old male patient complained of gait ataxia, loss of muscle strength, recurrent falls, tremor in both hands and a weight loss of 10 kg over the last 3 months. The patient came to the emergency room after an acute episode of dysarthria and tingling in the face on the left side.",
+    "title": "Editors selection\n\n    \n                              CLIPPERS with brain and spinal cord involvement",
+    "publication_date": "27.07.2020",
+    "differential_diagnosis": "Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids; Viral infection; Listeria monocytogenes; Neurosarcoidosis; Vasculitis; Central nervous system lymphoma",
+    "final_diagnosis": "Chronic lymphocytic inflammation with pontine perivascular enhancement responsive to steroids",
+    "link": "https://eurorad.org/case/16917",
+    "image_findings": {
+      "case0135_001.png": {
+        "scan_id": "1",
+        "caption": "Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles.",
+        "bbox_2d_gold": [
+          [
+            372.48854166666666,
+            441.5893229166667,
+            638.7221354166667,
+            625.9114583333334
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              369.06666666666666,
+              445.8666666666667,
+              637.8666666666667,
+              629.3333333333334
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              377.6,
+              435.2,
+              640.0,
+              620.8
+            ]
+          }
+        ]
+      },
+      "case0135_005.png": {
+        "scan_id": "5",
+        "caption": "Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles.",
+        "bbox_2d_gold": [
+          [
+            342.016015625,
+            404.53118489583335,
+            662.5792317708333,
+            624.2303873697917
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              294.4,
+              371.2,
+              684.8,
+              652.8
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              358.4,
+              416.0,
+              654.9333333333333,
+              614.4
+            ]
+          }
+        ]
+      },
+      "case0135_006.png": {
+        "scan_id": "6",
+        "caption": "Initial brain MRI obtained 2 days after admission. Axial T2-weighted (A), T2-FLAIR weighted (B, C), diffusion-weighted (D)and contrast-enhanced T1-weighted (E, F) images. Observe the T2/FLAIR signal hyperintensity involving the brainstem, predominantly the pons, without restricted diffusivity, but with multiple associated patchy spot-like and curvilinear areas of contrast enhancement \u201cpeppering\u201d the pons with minimal extension into the middle cerebellar peduncles.",
+        "bbox_2d_gold": [
+          [
+            369.8517252604167,
+            413.06451822916665,
+            635.5967936197917,
+            621.6021158854167
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              334.93333333333334,
+              379.73333333333335,
+              684.8,
+              654.9333333333334
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              381.8666666666667,
+              424.5333333333333,
+              618.6666666666666,
+              610.1333333333333
+            ]
+          }
+        ]
+      },
+      "case0135_002.png": {
+        "scan_id": "2",
+        "caption": "Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed.",
+        "bbox_2d_gold": [
+          [
+            383.59892578125,
+            530.1546549479167,
+            645.61279296875,
+            728.0106608072917
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              366.93333333333334,
+              516.2666666666667,
+              672.0,
+              721.0666666666666
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              392.5333333333333,
+              537.6,
+              631.4666666666667,
+              731.7333333333333
+            ]
+          }
+        ]
+      },
+      "case0135_003.png": {
+        "scan_id": "3",
+        "caption": "Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed.",
+        "bbox_2d_gold": [
+          [
+            374.5322591145833,
+            497.52320963541666,
+            604.710400390625,
+            691.635205078125
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              398.93333333333334,
+              488.5333333333333,
+              567.4666666666667,
+              689.0666666666666
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              358.4,
+              503.46666666666664,
+              629.3333333333333,
+              693.3333333333333
+            ]
+          }
+        ]
+      },
+      "case0135_004.png": {
+        "scan_id": "4",
+        "caption": "Follow-up brain MRI obtained 10 days after steroid treatment. Axial T2-weighted (A), T2-FLAIR weighted (B), and contrast-enhanced T1-weighted (C) images. Partial resolution of the T2 signal abnormalities and contrast enhancemnet is observed.",
+        "bbox_2d_gold": [
+          [
+            341.3333333333333,
+            430.93333333333334,
+            620.8,
+            635.7333333333333
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.ShadowScan",
+            "bbox_2d_rater": [
+              341.3333333333333,
+              430.93333333333334,
+              620.8,
+              635.7333333333333
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0018": {
+    "clinical_history": "A 56-years-old man consulted his General Practitioner with a history of increased feeling of cranial pressure and headache for two days. The patient was sent to the local Casualty Department. In clinical examination nothing abnormal was detected. All laboratory tests were normal. A cranial CT was performed, followed by cranial MRI.",
+    "title": "Symptomatic colloid cyst",
+    "publication_date": "31.01.2016",
+    "differential_diagnosis": "Colloid cyst; Intraventricular haemorrhage; Ependymoma",
+    "final_diagnosis": "Colloid cyst",
+    "link": "https://eurorad.org/case/13336",
+    "image_findings": {
+      "case0018_003.png": {
+        "scan_id": "3",
+        "caption": "MRI T2 coronal showing the intraventricular colloid cyst being hypointense compared to the cerebrospinal fluid.",
+        "bbox_2d_gold": [
+          [
+            473.39521484375,
+            422.29759114583334,
+            558.0458821614584,
+            493.4485270182292
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              448.0,
+              409.6,
+              580.2666666666667,
+              507.73333333333335
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              482.1333333333333,
+              426.6666666666667,
+              550.4,
+              488.53333333333336
+            ]
+          }
+        ]
+      },
+      "case0018_001.png": {
+        "scan_id": "1",
+        "caption": "MRI T1 transversal. The lesion is isointense to the cerebrum.",
+        "bbox_2d_gold": [
+          [
+            436.05546875,
+            458.20159505208335,
+            542.310400390625,
+            641.288525390625
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.RadiantRay",
+            "bbox_2d_rater": [
+              435.2,
+              473.59999999999997,
+              535.4666666666667,
+              637.8666666666666
+            ]
+          },
+          {
+            "rater": "Dr.MRIMaverick",
+            "bbox_2d_rater": [
+              437.3333333333333,
+              435.2,
+              552.5333333333333,
+              646.4
+            ]
+          }
+        ]
+      },
+      "case0018_002.png": {
+        "scan_id": "2",
+        "caption": "MRI T1 post-contrast (7 ml Gadovist) \u2013 no enhancement of the lesion.",
+        "bbox_2d_gold": [
+          [
+            448.4138671875,
+            454.83518880208334,
+            545.3055989583333,
+            621.2351888020834
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              452.26666666666665,
+              452.26666666666665,
+              537.6,
+              618.6666666666666
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              445.8666666666667,
+              456.5333333333333,
+              550.4,
+              622.9333333333333
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0054": {
+    "clinical_history": "A 17-year-old female patient with a known seizure disorder presented to the casualty with tonic-clonic seizures, in an unconscious state, and loss of both upper and lower limb reflexes. She was previously on anti-epileptics, which were stopped for 2 months for a gummatous inflammation.",
+    "title": "Transient splenial lesion of corpus callosum associated with discontinuation of antiepileptic therapy",
+    "publication_date": "07.03.2017",
+    "differential_diagnosis": "Transient splenial lesion of corpus callosum due to sudden withdrawal of anti-epileptic drugs.; Infections like influenza; measles; herpes; salmonella; mumps; varicella zoster; HIV; tubercular menigitis; Hypoglycaemia; Cerebral trauma; Brain infarction; Multiple sclersosis; Neoplasm; Marchiafava-bignami syndrome; Haemolytic uraemic syndrome with encephalopathy",
+    "final_diagnosis": "Transient splenial lesion of corpus callosum due to sudden withdrawal of anti-epileptic drugs.",
+    "link": "https://eurorad.org/case/14482",
+    "image_findings": {
+      "case0054_001.png": {
+        "scan_id": "1",
+        "caption": "Axial diffusion-weighted image shows decrease in the signal intensity in the splenium of the corpus callosum.",
+        "bbox_2d_gold": [
+          [
+            477.8666666666667,
+            573.3205078125,
+            570.6922688802083,
+            624.0255737304688
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.NeuronNinja",
+            "bbox_2d_rater": [
+              477.8666666666667,
+              571.7333333333333,
+              573.8666666666667,
+              627.2
+            ]
+          },
+          {
+            "rater": "Dr.ScanSleuth",
+            "bbox_2d_rater": [
+              477.8666666666667,
+              573.8666666666667,
+              569.6,
+              622.9333333333334
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "case0277": {
+    "clinical_history": "A 10-year-old patient with a personal history of strabismus surgery at the age of 2 years, presented with progressive limitation\u00a0of upward eye movements and proptosis of the right eye. She does not report diplopia, blurred vision or pain.",
+    "title": "Clinical and imaging features of a paediatric recurrent craniofacial mass",
+    "publication_date": "01.10.2024",
+    "differential_diagnosis": "Dysplasia fibrosa; Cemento-ossifying fibroma; Meningioma; Chondromesenchymal hamartoma; Psammomatoid juvenile ossifying fibroma",
+    "final_diagnosis": "Psammomatoid juvenile ossifying fibroma",
+    "link": "https://eurorad.org/case/18713",
+    "image_findings": {
+      "case0277_001.png": {
+        "scan_id": "1",
+        "caption": "Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+        "bbox_2d_gold": [
+          [
+            300.2559895833333,
+            8.533333333333333,
+            560.9663899739583,
+            273.3674641927084
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.SynapseScout",
+            "bbox_2d_rater": [
+              307.2,
+              8.533333333333333,
+              556.8,
+              285.8666666666667
+            ]
+          },
+          {
+            "rater": "Dr.PixelPathologist",
+            "bbox_2d_rater": [
+              296.5333333333333,
+              8.533333333333333,
+              563.2,
+              266.6666666666667
+            ]
+          }
+        ]
+      },
+      "case0277_002.png": {
+        "scan_id": "2",
+        "caption": "Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+        "bbox_2d_gold": [
+          [
+            318.28053385416666,
+            2.98240000406901,
+            583.2703938802083,
+            279.8591903686523
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              322.1333333333333,
+              4.266666666666667,
+              578.1333333333333,
+              290.1333333333333
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              315.73333333333335,
+              2.1333333333333333,
+              586.6666666666667,
+              273.06666666666666
+            ]
+          }
+        ]
+      },
+      "case0277_003.png": {
+        "scan_id": "3",
+        "caption": "Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+        "bbox_2d_gold": [
+          [
+            313.10081380208334,
+            291.39625651041666,
+            601.6213541666666,
+            543.1722493489583
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              334.93333333333334,
+              296.5333333333333,
+              595.2,
+              535.4666666666667
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              298.6666666666667,
+              288.0,
+              605.8666666666667,
+              548.2666666666667
+            ]
+          }
+        ]
+      },
+      "case0277_004.png": {
+        "scan_id": "4",
+        "caption": "Pre-surgical MRI: The lesion appears hypointense on both the T1-weighted (2a) and T2-weighted (2b) axial images. In the axial image of the susceptibility-weighted sequence (2c), it is markedly hypointense, suggesting a calcified lesion. The coronal (2d) and axial (2e) images obtained after intravenous contrast administration show enhancement of the lesion. Additionally, the axial diffusion-weighted imaging (DWI) (2f) does not demonstrate diffusion restriction, probably due to its fibrotic/calcified component.",
+        "bbox_2d_gold": [
+          [
+            129.70384928385417,
+            10.06361592610677,
+            714.8046305338542,
+            293.8182708740234
+          ]
+        ],
+        "bbox_2d_raters": [
+          {
+            "rater": "Dr.CortexCommander",
+            "bbox_2d_rater": [
+              300.0746744791667,
+              22.0586669921875,
+              585.9413411458333,
+              299.3920003255208
+            ]
+          },
+          {
+            "rater": "Dr.EchoLobe",
+            "bbox_2d_rater": [
+              17.066666666666666,
+              2.1333333333333333,
+              800.0,
+              290.1333333333333
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
