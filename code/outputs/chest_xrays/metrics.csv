@@ -1,0 +1,2 @@
+Accuracy,F1-Score Healthy,F1-Score Unhealthy,Average of mAP@50:95,Average of mAP@50,Average of mAP@75
+0.3,0.14634146341463414,0.4067796610169492,0.0,0.0,0.0
